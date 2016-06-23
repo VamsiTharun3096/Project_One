@@ -1,3 +1,3 @@
 # Project_One
 EDA
-Analysis
+Data Analysis
